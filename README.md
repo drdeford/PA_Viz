@@ -1,4 +1,3 @@
-# PA_Viz
 # Visualization Data for MCMC runs on PA precincts
 
 This repo contains a small snapshot of ensemble data for the state of Pennsylvania for testing visualization techniques. There is one 100k step ensembles presented here, for the eighteen Congressional districts. For each ensemble we have recorded a variety of metrics for each plan, described in more detail below. The ensembles were generated with the GerryChain software: <https://github.com/mggg/gerrychain>. Precinct data was gathered by MGGG project: <https://github.com/mggg-states/Wisconsin> and preprocessed with <https://github.com/mggg/maup>. 
